@@ -26,4 +26,12 @@ L’objectif principal était de consolider mes bases en **HTML, CSS et JavaScri
 
 ---
 
+## Objectifs pédagogiques
 
+Comprendre la structure d’un projet web
+
+Manipuler le DOM en JavaScript
+
+Implémenter une logique interactive simple
+
+Gérer un projet avec GitHub
